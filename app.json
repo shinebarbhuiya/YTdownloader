@@ -1,13 +1,13 @@
 {
-  "name": "YouTube Downloader Bot",
+  "name": "Youtube Downloader Pro",
   "description": "A telegram bot To Download Youtube Files ",
-  "logo": "https://telegra.ph/file/3db812d9dcf60ab1a5997.jpg",
+  "logo": "https://www.anime-planet.com/images/characters/75.jpg?t=1551804980",
   "keywords": [
     "Youtube","YoutubeDownloader"
   ],
-  "repository": "https://github.com/Damantha126/Youtube-Downloader-Bot",
-  "success_url": "https://damantha.ga",
-  "website": "https://damantha.tk",
+  "repository": "https://github.com/shinebarbhuiya/YTdownloader",
+  "success_url": "https://github.com/shinebarbhuiya/YTdownloader",
+  "website": "https://github.com/shinebarbhuiya/YTdownloader",
   "env": {
         "API_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
         "API_HASH": {"description": "Get this value from https://my.telegram.org" , "required": true},
