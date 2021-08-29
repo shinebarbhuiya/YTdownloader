@@ -12,6 +12,6 @@ async def start(client, message):
         InlineKeyboardButton(
             "Say Hello!", url="https://instagram.com/callmeonlyshine")]
     ])
-    welcomed = f"<b> Hey {message.from_user.first_name} , \n\nI'm ShineYt Bot. I can download video or audio f\n rom Youtube. \n\nMade by @shinebarbhuiya 😍/help for More info </b>"
+    welcomed = f"<b> Hey {message.from_user.first_name} , \n\nI'm ShineYt Bot. I can download video or audio from Youtube. \nJust enter any youtube video link here.  \n\nMade by @shinebarbhuiya</b>"
     await message.reply_text(welcomed, reply_markup=joinButton)
     raise StopPropagatio
